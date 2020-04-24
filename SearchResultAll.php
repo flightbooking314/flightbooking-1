@@ -66,7 +66,7 @@
         </div>
     </nav>
 <div class="jumbotron text-center">
-        <h1>Booking Flights</h1> 
+        <h1>Airprice.com</h1> 
         <p>We specialize in your air plan!</p> 
 </div>
 
@@ -193,7 +193,7 @@ mysqli_close($con);
         <a href="#signUpPage" title="To Top">
             <span class="glyphicon glyphicon-chevron-up"></span>
         </a>
-        <p>Booking Flights</p>     
+        <p>Airprice.com</p>     
 </footer>
 </body>
 </html>
